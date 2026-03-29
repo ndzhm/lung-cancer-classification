@@ -23,5 +23,5 @@ This project focuses on classifying lung histopathological images using both cla
 Download from Kaggle:
 https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 
-## ⚠️ Note
+## Note
 Dataset is not included due to size limitations.
